@@ -9,8 +9,6 @@ Jogo simples de plataforma inspirado no Super Mario, desenvolvido como projeto e
 
 ## 🛠️ Tecnologias
 - HTML
-- CSS
-- JavaScript
 
 ## 👨‍💻 Projeto
 Desenvolvido para fins educacionais.
