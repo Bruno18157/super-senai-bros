@@ -1,4 +1,4 @@
-# 🎮 Super Senai Bros
+# 🎮 Super SENAI Bros.
 
 Jogo simples de plataforma inspirado no Super Mario, desenvolvido como projeto educacional do SENAI.
 
